@@ -1,7 +1,5 @@
 # AWS-S3-Configuration
 
-Created an AWS S3 bucket, configured its settings, and uploaded a shoes e-commerce website. Learned how to manage files and store website content using Amazon S3.
-
 ## 📌 Project Overview
 
 This project demonstrates how to create and configure an Amazon S3 bucket using the AWS Management Console.
